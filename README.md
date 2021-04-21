@@ -1,7 +1,9 @@
 # apcs-codehs
 This repository will contain all completed units for the APCS CodeHS Java course. Attempt to solve the assignment before using this as a resource.
 
-## If assignment has 2 or more files
+
+## Common Answers
+### If assignment has 2 or more files
 If the assignment has 2 or more files required, the individual file will be denoted as such:
 
 ```
@@ -9,6 +11,10 @@ File.name:
 ----------
 // Code...
 ```
+
+### If assignment has a prefix of "M-"
+If an assignment has a prefix of "M-" it's an actual school project, not a CodeHS assignment and can be ignored.
+
 
 ## TODO
 - [X] Add Unit 1 (Primitive Types)
