@@ -4,9 +4,10 @@ This repository will contain all completed units for the APCS CodeHS Java course
 ## If assignment has 2 or more files
 If the assignment has 2 or more files required, the individual file will be denoted as such:
 
-"File.name:"
-
-_-_-_-_-_-_-_-_-_-_-_-_-
+```
+File.name:
+----------
+```
 
 ## TODO
 - [X] Add Unit 1 (Primitive Types)
