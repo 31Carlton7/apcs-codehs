@@ -29,12 +29,12 @@ public class PizzaTester
 {
     public static void main(String[] args)
     {
-        Pizza carltonspizza = new Pizza("Onions", "Beef", 15);
-        Pizza jamespizza = new Pizza("Cheese", "Cheese", 22);
-        Pizza mrvanderlindenspizza = new Pizza("Meat", "Pepperoni", 12);
+        Pizza one = new Pizza("Onions", "Beef", 15);
+        Pizza two = new Pizza("Cheese", "Cheese", 22);
+        Pizza three = new Pizza("Meat", "Pepperoni", 12);
         
-        System.out.println(carltonspizza);
-        System.out.println(jamespizza);
-        System.out.println(mrvanderlindenspizza);
+        System.out.println(one);
+        System.out.println(two);
+        System.out.println(three);
     }
 }
