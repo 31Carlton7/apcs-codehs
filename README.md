@@ -1,5 +1,5 @@
 # apcs-codehs
-This repository will contain all completed units for the APCS CodeHS Java course. Attempt to solve the assignment before using this resource.
+This repository will contain all completed units for the APCS CodeHS Java course. Attempt to solve the assignment before using this as a resource.
 
 ## If assignment has 2 or more files
 If the assignment has 2 or more files required, the individual file will be denoted as such:
