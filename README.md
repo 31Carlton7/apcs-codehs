@@ -21,7 +21,7 @@ If an assignment has a prefix of "M-" it's an actual school project, not a CodeH
 - [X] Add Unit 2 (Using Objects)
 - [X] Add Unit 3 (Boolean Expressions and IF Statements)
 - [X] Add Unit 4 (Iteration)
-- [X] Add Unit 5 (Writing Classes)
+- [ ] Add Unit 5 (Writing Classes)
 - [ ] Add Unit 6 (Array)
 - [ ] Add Unit 7 (ArrayList)
 - [X] Add Unit 8 (2D Array)
