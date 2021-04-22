@@ -19,7 +19,7 @@ If an assignment has a prefix of "M-" it's an actual school project, not a CodeH
 ## TODO
 - [X] Add Unit 1 (Primitive Types)
 - [X] Add Unit 2 (Using Objects)
-- [ ] Add Unit 3 (Boolean Expressions and IF Statements)
+- [X] Add Unit 3 (Boolean Expressions and IF Statements)
 - [ ] Add Unit 4 (Iteration)
 - [ ] Add Unit 5 (Writing Classes)
 - [ ] Add Unit 6 (Array)
