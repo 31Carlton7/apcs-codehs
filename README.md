@@ -1,4 +1,4 @@
-# apcs-codehs
+# AP Computer Science - CodeHS
 This repository will contain all completed units for the APCS CodeHS Java course. Attempt to solve the assignment before using this as a resource. Be sure to leave a star 🌟
 
 
