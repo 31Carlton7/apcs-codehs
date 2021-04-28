@@ -7,7 +7,7 @@ public class Grammar
         // Ask the user to enter a sentence that uses the word 2 instead of to.
         Scanner input = new Scanner(System.in);
         
-        System.out.println("Enter a string:  ");
+        System.out.println("Enter a string: ");
         String text = input.nextLine();
         
         // Call the method useProperGrammar to process the string according to 
