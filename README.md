@@ -15,6 +15,10 @@ File.name:
 ### If assignment has a prefix of "M-"
 If an assignment has a prefix of "M-" it's an actual school project, not a CodeHS assignment and can be ignored.
 
+## WARNING
+
+It is recommended that you attempt to solve the problems by yourself before using the work provided here so you can learn from your mistakes. Try to use this only to review/compare your own work, or if you are very stuck on a problem.
+
 
 ## TODO
 - [X] Add Unit 1 (Primitive Types)
