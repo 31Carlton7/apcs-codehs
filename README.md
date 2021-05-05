@@ -1,4 +1,4 @@
-# AP Computer Science - CodeHS
+# AP Computer Science - CodeHS ![Stars](https://img.shields.io/github/stars/31Carlton7/apcs-codehs?style=for-the-badge) ![LICENSE](https://img.shields.io/github/license/31Carlton7/apcs-codehs?style=for-the-badge)
 This repository will contain all completed units for the APCS CodeHS Java course. Attempt to solve the assignment before using this as a resource. Be sure to leave a star 🌟
 
 
