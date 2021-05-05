@@ -1,7 +1,4 @@
-<h1 align="center">AP Computer Science - CodeHS</h1> 
-<p align="center">![stars](https://img.shields.io/github/stars/31Carlton7/apcs-codehs?style=for-the-badge) ![LICENSE](https://img.shields.io/github/license/31Carlton7/apcs-codehs?style=for-the-badge)</p>
-
-This repository will contain all completed units for the APCS CodeHS Java course. Attempt to solve the assignment before using this as a resource. Be sure to leave a star 🌟
+<h1 align="center">AP Computer Science - CodeHS</h1> <p align="center"><img src="https://img.shields.io/github/stars/31Carlton7/apcs-codehs?style=for-the-badge"><img src="https://img.shields.io/github/license/31Carlton7/apcs-codehs?style=for-the-badge"></p> <p>This repository will contain all completed units for the APCS CodeHS Java course. Attempt to solve the assignment before using this as a resource. Be sure to leave a star 🌟<p>
 
 ## Common Answers
 ### If assignment has 2 or more files
