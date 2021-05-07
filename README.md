@@ -25,7 +25,7 @@ It is recommended that you attempt to solve the problems by yourself before usin
 - [X] Add Unit 4 (Iteration)
 - [ ] Add Unit 5 (Writing Classes)
 - [ ] Add Unit 6 (Array)
-- [ ] Add Unit 7 (ArrayList)
+- [X] Add Unit 7 (ArrayList)
 - [X] Add Unit 8 (2D Array)
 - [ ] Add Unit 9 (Inheritance)
 - [ ] Add Unit 10 (Recursion)
