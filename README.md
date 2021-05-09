@@ -5,7 +5,7 @@
 If the assignment has 2 or more files required, the individual file will be denoted as such:
 
 ```
-File.name
+File.name:
 ----------
 // Code...
 ```
