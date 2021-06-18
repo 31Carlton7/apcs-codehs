@@ -33,5 +33,5 @@ It is recommended that you attempt to solve the problems by yourself before usin
 ## Socials
 If you have any questions, you can reach me here:
 
-- Instagram: 31carlton7
+- Instagram: [@31Carlton7](https://www.instagram.com/31carlton7/)
 - Email: carltonaikins7@gmail.com
