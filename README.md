@@ -10,8 +10,8 @@ File.name:
 // Code...
 ```
 
-### If assignment has a prefix of "M-"
-If an assignment has a prefix of "M-" it's an actual school project, not a CodeHS assignment and can be ignored.
+### If assignment has a prefix of `M-`
+If an assignment has a prefix of `M-` it's an actual school project, not a CodeHS assignment and can be ignored.
 
 ## WARNING
 
@@ -28,7 +28,7 @@ It is recommended that you attempt to solve the problems by yourself before usin
 - [X] Add Unit 7 (ArrayList)
 - [X] Add Unit 8 (2D Array)
 - [X] Add Unit 9 (Inheritance)
-- [ ] Add Unit 10 (Recursion)
+- [X] Add Unit 10 (Recursion)
 
 ## Socials
 If you have any questions, you can reach me here:
