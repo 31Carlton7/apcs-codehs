@@ -18,7 +18,7 @@ If an assignment has a prefix of "M-" it's an actual school project, not a CodeH
 It is recommended that you attempt to solve the problems by yourself before using the work provided here so you can learn from your mistakes. Try to use this only to review/compare your own work, or if you are very stuck on a problem.
 
 
-## TODO
+## Completed Units
 - [X] Add Unit 1 (Primitive Types)
 - [X] Add Unit 2 (Using Objects)
 - [X] Add Unit 3 (Boolean Expressions and IF Statements)
