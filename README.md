@@ -1,6 +1,6 @@
 <h1 align="center">AP Computer Science - CodeHS</h1> <p align="center">This repository contains all the completed units for the APCS CodeHS Java course. Be sure to leave a star 🌟</p>
 
-## Common Answers
+## Common Answer
 ### If assignment has 2 or more files
 If the assignment has 2 or more files required, the individual file will be denoted as such:
 
