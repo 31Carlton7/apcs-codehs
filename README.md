@@ -1,7 +1,7 @@
 <h1 align="center">AP Computer Science - CodeHS</h1> <p align="center">This repository contains all the completed units for the APCS CodeHS Java course. Be sure to leave a star 🌟</p>
 
 ## Common Answers
-### If an assignment has 2 or more files
+### If an assignment has 2 or more files...
 If an assignment has 2 or more files required, the individual file will be denoted as such:
 
 ```
@@ -10,7 +10,7 @@ File.name:
 // Code...
 ```
 
-### If an assignment has a prefix of `M-`
+### If an assignment has a prefix of `M-`...
 If an assignment has a prefix of `M-` it's an actual school project, not a CodeHS assignment and can be ignored.
 
 ## WARNING
