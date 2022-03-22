@@ -2,7 +2,7 @@
 
 ## Common Answers
 ### If an assignment has 2 or more files
-If the assignment has 2 or more files required, the individual file will be denoted as such:
+If an assignment has 2 or more files required, the individual file will be denoted as such:
 
 ```
 File.name:
