@@ -10,12 +10,32 @@ public class TwoDArray
     }
     public boolean equals(Object[][] other)
     {
-        for(int i = 0; i < myArray.length; i++)
+        int smallerRow = 0;
+        if (myArray.length <= other.length)
         {
-            int rowLength = myArray[i].length;
-            for(int j = 0; j < rowLength; j++)
+            smallerRow = myArray.length;
+        }
+        else 
+        {
+            smallerRow = other.length;
+        }
+        
+        int smallerCol = 0;
+        if (myArray[0].length <= other[0].length)
+        {
+            smallerCol = myArray[0].length;
+        }
+        else 
+        {
+            smallerCol = other[0].length;
+        }
+        
+        for (int i = 0; i < smallerRow; i++)
+        {
+            for (int j = 0; j < smallerCol; j++)
             {
-                if(!myArray[i][j].equals(other[i][j])) {
+                if(!myArray[i][j].equals(other[i][j])) 
+                {
                     return false;
                 }
             }
