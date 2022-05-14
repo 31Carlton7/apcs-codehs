@@ -47,7 +47,7 @@ public class CompareSearch
         while(low <= high)
         {
             comparisons++;
-            int mid = low + high / 2;
+            int mid = (low + high) / 2;
             if(array[mid] == number)
             {
                 return comparisons;
