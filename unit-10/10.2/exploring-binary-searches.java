@@ -24,7 +24,7 @@ public class BinaryExplorer
         
         if(begin <= end)
         {
-            int mid = begin + end / 2;
+            int mid = (begin + end) / 2;
             int midVal = array[mid];
             
             System.out.println("Testing midpoint value: " + midVal);
