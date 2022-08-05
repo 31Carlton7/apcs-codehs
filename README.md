@@ -34,4 +34,5 @@ It is recommended that you attempt to solve the problems by yourself before usin
 If you have any questions, you can reach me here:
 
 - Instagram: [@31Carlton7](https://www.instagram.com/31carlton7/)
+- LinkedIn: [@Carlton Aikins](https://www.linkedin.com/in/carlton-aikins-a34a14226/)
 - Email: carltonaikins7@gmail.com
