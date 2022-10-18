@@ -1,0 +1,313 @@
+5.2.6
+
+tester:
+public class DogTester
+
+{
+
+public static void main(String[] args)
+
+{
+
+// Start here!
+
+System.out.println(new Dog("Dog", 3, 2.0));
+
+System.out.println(new Dog("Dog", 3));
+
+}
+
+}
+
+dog.java:
+
+public class Dog
+
+{
+
+private String name;
+
+private int age;
+
+private double weight;
+
+
+
+// Add your constructors here
+
+public Dog(String name, int age, double weight) {
+
+this.name = name;
+
+this.age = age;
+
+this.weight = weight;
+
+}
+
+public Dog(String name, int age)
+
+{
+
+this.name = name;
+
+this.age = age;
+
+this.weight = 0.0;
+
+}
+
+public String toString(){
+
+return "Name: " + name + "\nWeight: " + weight + "\nAge: " + age;
+
+}
+
+}
+
+
+5.2.7
+
+tester:
+public class StudentTester
+
+{
+
+public static void main(String[] args)
+
+{
+
+Student alan = new Student("Alan", "Turing", 11, "Liberty High School");
+
+Student ada = new Student("Ada", "Lovelace", 5);
+
+System.out.println(alan);
+
+System.out.println(ada);
+
+}
+
+}
+
+java:
+public class Student
+
+{
+
+private String firstName;
+
+private String lastName;
+
+private int gradeLevel;
+
+private String school;
+
+
+
+/**
+
+* Constructors go here.
+
+* Check out StudentTester.java for an example of how to use
+
+* this constructor. Make sure your code matches the call in the
+
+* tester.
+
+*/
+
+public Student(String fN, String lN, int grd, String schl)
+
+{
+
+this.firstName = fN;
+
+this.lastName = lN;
+
+this.gradeLevel = grd;
+
+this.school = schl;
+
+}
+
+public Student(String fN, String lN, int grd)
+
+{
+
+this.firstName = fN;
+
+this.lastName = lN;
+
+this.gradeLevel = grd;
+
+this.school = grd >= 9 ? "high school" : grd >= 6 ? "middle school" : "elementary school";
+
+}
+
+/**
+
+* This is a toString for the Student class. It returns a String
+
+* representation of the object, which includes the fields
+
+* in that object.
+
+*
+
+* Modify the to string to add 'and goes to _____' at the end
+
+*/
+
+public String toString()
+
+{
+
+return firstName + " " + lastName + " is in grade " + gradeLevel + " and goes to " + school;
+
+}
+
+public String getFirstName(){
+
+return firstName;
+
+}
+
+}
+
+5.2.8
+
+tester:
+public class StudentTester
+
+{
+
+public static void main(String[] args)
+
+{
+
+Student alan = new Student("Alan", "Turing", 11, "Liberty High School");
+
+Student ada = new Student("Ada", "Lovelace", 5);
+
+System.out.println(alan);
+
+System.out.println(ada);
+
+System.out.println(new SchoolClub(alan, "dnd club"));
+
+}
+
+}
+
+student:
+
+public class Student
+
+{
+
+private String firstName;
+
+private String lastName;
+
+private int gradeLevel;
+
+private String school;
+
+
+
+/**
+
+* Constructors go here.
+
+* Copy over your constructors from the previous exercise.
+
+* Check out StudentTester.java for an example of how to use
+
+* this constructor. Make sure your code matches the call in the
+
+* tester.
+
+*/
+
+public Student(String fN, String lN, int grd, String schl)
+
+{
+
+this.firstName = fN;
+
+this.lastName = lN;
+
+this.gradeLevel = grd;
+
+this.school = schl;
+
+}
+
+public Student(String fN, String lN, int grd)
+
+{
+
+this.firstName = fN;
+
+this.lastName = lN;
+
+this.gradeLevel = grd;
+
+this.school = grd >= 9 ? "high school" : grd >= 6 ? "middle school" : "elementary school";
+
+}
+
+/**
+
+* This is a toString for the Student class. It returns a String
+
+* representation of the object, which includes the fields
+
+* in that object.
+
+*
+
+* Modify the to string to add 'and goes to _____' at the end
+
+*/
+
+public String toString()
+
+{
+
+return firstName + " " + lastName + " is in grade " + gradeLevel + " and goes to " + school;
+
+}
+
+public String getFirstName(){
+
+return firstName;
+
+}
+
+}
+
+club:
+
+public class SchoolClub
+{
+private Student leader;
+private String name;
+private int numMembers;
+/* Add your constructor here
+* Constructor should take a leader and club name, then set
+* numMembers to 0.
+*/
+public SchoolClub(Student theLeader, String theName)
+{
+leader = theLeader;
+name = theName;
+numMembers = 0;
+}
+public void addMember() {
+numMembers ++;
+}
+public String toString(){
+return leader.getFirstName() + " is the leader of the " + name + " club.";
+}
+}
