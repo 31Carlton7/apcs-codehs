@@ -1,4 +1,6 @@
-<h1 align="center">AP Computer Science A - CodeHS</h1> <p align="center">This repository contains all the answers for units 1 - 10 in the APCSA CodeHS Java course. Be sure to leave a star 🌟</p>
+<h1 align="center">AP Computer Science A - CodeHS</h1><p align="center">This repository contains all the answers for units 1 - 10 in the APCSA CodeHS Java course. Be sure to leave a star 🌟</p>
+
+Instagram: [@31Carlton7](https://www.instagram.com/31carlton7/)
 
 ## Common Answers
 ### If an assignment has 2 or more files...
