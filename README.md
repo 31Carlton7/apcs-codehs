@@ -2,7 +2,6 @@
 
 Instagram: [@31Carlton7](https://www.instagram.com/31carlton7/)
 
-NOTICE: The repository will be taken down effect Wednesday, February 1st. CodeHS Caught on 😕 Email me if you would like any further help with APCS A or CodeHS in general!
 
 ## Common Answers
 ### If an assignment has 2 or more files...
