@@ -1,8 +1,6 @@
 <h1 align="center">AP Computer Science A - CodeHS</h1><p align="center">This repository contains all the answers for units 1 - 10 in the APCSA CodeHS Java course. Be sure to leave a star 🌟</p>
 
 **NOTICE**: The answers from this repository will be taken down effective Wednesday, February 1st. CodeHS Caught on 😕 
-## Hit me up on Instagram: [@31Carlton7](https://www.instagram.com/31carlton7/) if you would like any further help with APCS A or CodeHS in general!
-I am also available to do your CS homework. DM/Email me if interested.
 ## Common Answers
 
 ### If an assignment has 2 or more files...
