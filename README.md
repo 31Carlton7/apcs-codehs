@@ -1,6 +1,6 @@
 <h1 align="center">AP Computer Science A - CodeHS</h1><p align="center">This repository contains all the answers for units 1 - 10 in the APCSA CodeHS Java course. Be sure to leave a star 🌟</p>
 
-**NOTICE**: The answers from this repository will be taken down effective Wednesday, February 1st, 2023. CodeHS Caught on 😕
+**NOTICE**: The answers from this repository ~~will be taken down~~ ARE BACK!
 ## Common Answers
 
 ### If an assignment has 2 or more files...
@@ -33,3 +33,8 @@ It is recommended that you attempt to solve the problems by yourself before usin
 - [x] Add Unit 8 (2D Array)
 - [x] Add Unit 9 (Inheritance)
 - [x] Add Unit 10 (Recursion)
+
+## Socials
+Let me know if you found these helpful or need assistance!
+- Instagram: [@31Carlton7](https://www.instagram.com/31carlton7)
+- LinkedIn: [@Carlton Aikins](https://www.linkedin.com/in/carlton-aikins)
